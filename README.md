@@ -1,6 +1,6 @@
 # JP Morgan Coin
 ## A Small Case Study 
-
+### A small case study based off of questions provided and some answers 
 ![JPMCoin](JPMcoin.png)
 
 **What is the background of your company? What do they do? Who are their competitors?**
