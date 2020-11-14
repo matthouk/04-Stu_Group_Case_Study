@@ -19,9 +19,6 @@ How it works:
     1.) A J.P. Morgan client commits deposits to a designated account and receives an equivalent number of JPM Coins.
     2.) The JPM Coins are used for transactions over a blockchain network with other J.P. Morgan clients (e.g., money movement, payments in securities transactions).
     3.) Lastly, holders of JPM Coins redeem them for USD at J.P. Morgan.
-:white_check_mark:
-:eyes:
-:raised_hands:
 
 
 **Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?** 
