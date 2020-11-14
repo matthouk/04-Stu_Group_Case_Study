@@ -1,5 +1,5 @@
 # JP Morgan Coin
-## A Small Case Study 
+## Sample Case Study 
 ### A small case study based off of questions provided and some answers 
 ![JPMCoin](JPMcoin.png)
 
