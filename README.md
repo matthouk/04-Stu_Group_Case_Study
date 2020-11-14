@@ -19,11 +19,9 @@ How it works:
     1.) A J.P. Morgan client commits deposits to a designated account and receives an equivalent number of JPM Coins.
     2.) The JPM Coins are used for transactions over a blockchain network with other J.P. Morgan clients (e.g., money movement, payments in securities transactions).
     3.) Lastly, holders of JPM Coins redeem them for USD at J.P. Morgan.
-white_check_mark
-eyes
-raised_hands
-
-
+:white_check_mark:
+:eyes:
+:raised_hands:
 
 
 **Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?** 
@@ -38,3 +36,6 @@ Weaknesses:
 + No government backing to JPM Coin which we all take for granted in the banking system 
 + Business culture: It was only a few years ago where their CEO said that any employee caught trading cryptocurrencies would be fired. 
 
+**What is the prognosis for this company? Where do they expect to be in the future?**
+
+The prognosis for the company so far is good in that there has been a good recovery in the banking sector after 1Q and 2Q drops. 3Q20 has shown net income to increase from $$4.7B in 2Q20 to $9.4B in 3Q20. EPS is $2.92 and a the ROE is 15%.
