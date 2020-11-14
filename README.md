@@ -3,6 +3,7 @@
 ### A small case study based off of questions provided and some answers 
 ![JPMCoin](JPMcoin.png)
 
+### [JP Morgan Coin](https://www.jpmorgan.com/solutions/cib/news/digital-coin-payments)
 **What is the background of your company? What do they do? Who are their competitors?**
 
 JPMorgan Chase is an American multinational investment bank that also provides financial services and is headquartered in New Your City. Ranked as the largest bank in the United States and seventh largest bank in the world by assets, JPMorgan Chase has assets totaling $3.213 trillion. JPMorgan Chase was founded when Chase and JPMorgan merged in 2000 to form JPMorgan Chase. Since 2000, JPMorgan Chase has merged with Bank One (2004), Bear Stearns (2008), and Washinton Mutual (2008).
