@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # JP Morgan Coin
 ## A Small Case Study 
 
