@@ -1,8 +1,14 @@
 # JP Morgan Coin
 ## Sample Case Study 
 ### A small case study based off of questions provided and some answers 
+
+--- 
+
+### Contributors: Matt, April, James 
 ![JPMCoin](JPMcoin.png)
 
+--- 
+--- 
 ### [JP Morgan Coin](https://www.jpmorgan.com/solutions/cib/news/digital-coin-payments)
 **What is the background of your company? What do they do? Who are their competitors?**
 
