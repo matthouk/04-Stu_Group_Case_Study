@@ -19,12 +19,15 @@ JPMorgan Chase is known as a "Bulge Bracket" bank that provides investment banki
 Competitors include the other "Big Four" banks, Bank of America, Citigroup, and Wells Fargo, as well as international competitors like HSBC and WesBanco. Other smaller competitors nationally are USBank, Citigroup and Truist.
 
 **How does this company use technology to their advantage? Why are they considered a FinTech company?** 
-- JP Morgan Coin leverages blockchain-based technology to enable the instantaneous transfer of payments between institutional clients.
-When a client sends money to another over the blockchain, JPM Coins are transferred and instantaneously redeemed for the equivalent amount of U.S. dollars, creating a more efficient transaction betwen parties.
+
+JP Morgan Coin leverages blockchain-based technology to enable the instantaneous transfer of payments between institutional clients.
+When a client sends money to another over the blockchain, JPM Coins are transferred and instantaneously redeemed for the equivalent amount of U.S. dollars, creating a more efficient and secure transaction betwen parties.
+
 How it works:
-    1.) A J.P. Morgan client commits deposits to a designated account and receives an equivalent number of JPM Coins.
-    2.) The JPM Coins are used for transactions over a blockchain network with other J.P. Morgan clients (e.g., money movement, payments in securities transactions).
-    3.) Lastly, holders of JPM Coins redeem them for USD at J.P. Morgan.
+
++ A J.P. Morgan client commits deposits to a designated account and receives an equivalent number of JPM Coins.
++ The JPM Coins are used for transactions over a blockchain network with other J.P. Morgan clients (e.g., money movement, payments in securities transactions).
++ Last, holders of JPM Coins redeem them for USD at J.P. Morgan.
 
 
 **Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?** 
@@ -38,6 +41,7 @@ Strengths:
 Weaknesses: 
 + No government backing to JPM Coin which we all take for granted in the banking system 
 + Business culture: It was only a few years ago where their CEO said that any employee caught trading cryptocurrencies would be fired. 
++ JPM Coin is available only to JPM account holders and can only be redemmed within the institution.
 
 **What is the prognosis for this company? Where do they expect to be in the future?**
 
