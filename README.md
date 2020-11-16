@@ -1,6 +1,6 @@
 # JP Morgan Coin
 ## Sample Case Study 
-### A small case study based off of questions provided and some answers 
+### A small case study based off of questions provided and some answers.
 
 --- 
 
